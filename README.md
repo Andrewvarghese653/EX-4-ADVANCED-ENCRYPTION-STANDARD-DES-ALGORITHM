@@ -1,4 +1,4 @@
-# EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# EX-8-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
 
 ## Aim:
 
@@ -43,7 +43,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/676fa017-0a3f-4621-8d72-d9ef299d5d67)
+<img width="591" alt="Screenshot 2024-10-18 at 2 12 56 PM" src="https://github.com/user-attachments/assets/fe86d241-30ea-4e82-9017-53302d5043cd">
+
 
 ## RESULT: 
 Thus , to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
