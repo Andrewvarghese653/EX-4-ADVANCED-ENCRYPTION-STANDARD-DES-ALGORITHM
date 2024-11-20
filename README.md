@@ -1,4 +1,4 @@
-# EX-8-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# Ex-7-Implement-DES-Encryption-and-Decryption
 
 ## Aim:
 
@@ -11,7 +11,7 @@ To use Advanced Encryption Standard (AES) Algorithm for a practical application 
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM: 
-```c
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -43,8 +43,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="591" alt="Screenshot 2024-10-18 at 2 12 56 PM" src="https://github.com/user-attachments/assets/fe86d241-30ea-4e82-9017-53302d5043cd">
-
+![image](https://github.com/user-attachments/assets/676fa017-0a3f-4621-8d72-d9ef299d5d67)
 
 ## RESULT: 
 Thus , to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
